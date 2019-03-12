@@ -38,7 +38,7 @@ class Home extends Component {
     );
     return (
       <div className="container home">
-        <h4 className="center">Home</h4>
+        <h4 className="center" />
         {postList}
       </div>
     );

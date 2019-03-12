@@ -7,7 +7,7 @@ const Contact = props => {
   }, 2000);
   return (
     <div className="container">
-      <h4 className="center">Contact</h4>
+      <h4 className="center" />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quam ut
         veritatis at quae dolorem dicta ea harum nesciunt placeat cumque, quia
