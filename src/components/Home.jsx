@@ -37,10 +37,12 @@ class Home extends Component {
       <div className="center">No posts yet</div>
     );
     return (
-      <div className="container home">
-        <h4 className="center" />
-        {postList}
-      </div>
+      <React.Fragment>
+        <div className="container home">
+          <h4 className="center" />
+          {postList}
+        </div>
+      </React.Fragment>
     );
   }
 }

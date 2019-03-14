@@ -1,3 +1,8 @@
+# Bloggie
+
+This project uses **React&&React-router&&Redux** to build front-end of persional blog.
+![home](./src/pics/home.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
